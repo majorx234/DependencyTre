@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.1)
 
 FILE(GLOB HEADER_FILES "${CMAKE_CURRENT_SOURCE_DIR}/*.h")
 FILE(GLOB CPP_FILES "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp")
